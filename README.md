@@ -1,5 +1,5 @@
 
-# ⚡ Airavat: Smart Productivity AI Assistant
+# ⚡ AiRSpace: Smart Productivity AI Assistant
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/username/airavat/main/public/airavat-logo.png" alt="Airavat Logo" width="200" />
@@ -98,12 +98,10 @@ npm run dev
 
 Visit `http://localhost:5173` to see the application in action!
 
-## 📄 License
 
-MIT
 
 ---
 
 <p align="center">
-  <sub>Transform your productivity with Airavat - where AI meets your daily workflow</sub>
+  <sub>Made with ❤️ by TeaM HackStreet</sub>
 </p>
