@@ -1,17 +1,6 @@
 
 # ⚡ AiRSpace: Smart Productivity AI Assistant
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/airavat/main/public/airavat-logo.png" alt="Airavat Logo" width="200" />
-</p>
-
-<p align="center">
-  <a href="#key-features">Features</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#license">License</a>
-</p>
 
 <p align="center">
   <b>🧠 Your AI-powered productivity companion, transforming how you work, focus, and achieve goals. 🚀</b>
