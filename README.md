@@ -92,5 +92,5 @@ Visit `http://localhost:5173` to see the application in action!
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by TeaM HackStreet</sub>
+  <sub>Made with ❤️ by Team HackStreet</sub>
 </p>
