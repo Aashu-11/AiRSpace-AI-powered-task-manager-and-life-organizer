@@ -65,8 +65,13 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/airavat/main/screenshots/timeblocks.png" width="45%" alt="Time Blocks" />
-  <img src="https://raw.githubusercontent.com/username/airavat/main/screenshots/ai-coach.png" width="45%" alt="AI Coach" />
+  <img src="./Screenshots/4.png" width="45%" alt="Insights" />
+  <img src="./Screenshots/5.png" width="45%" alt="Flow State AI" />
+</div>
+
+<div align="center">
+
+  <img src="./Screenshots//3.png" width="45%" alt="Time Block" />
 </div>
 
 ## 🚀 Getting Started
