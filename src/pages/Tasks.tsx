@@ -218,19 +218,7 @@ const Tasks = () => {
             </DialogContent>
           </Dialog>
           
-          <Button variant="outline" onClick={generateAITask} disabled={isGeneratingTask}>
-            {isGeneratingTask ? (
-              <>
-                <Brain className="mr-2 h-4 w-4 animate-spin" />
-                Generating...
-              </>
-            ) : (
-              <>
-                <Brain className="mr-2 h-4 w-4" />
-                Generate AI Task
-              </>
-            )}
-          </Button>
+        
         </div>
         
         <div className="flex gap-2 items-center">
