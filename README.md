@@ -60,8 +60,8 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/airavat/main/screenshots/dashboard.png" width="45%" alt="Dashboard" />
-  <img src="https://raw.githubusercontent.com/username/airavat/main/screenshots/tasks.png" width="45%" alt="Tasks" />
+  <img src="./Screenshots/1.png" width="45%" alt="Hero" />
+  <img src="./Screenshots/2.png" width="45%" alt="Dashboard" />
 </div>
 
 <div align="center">
