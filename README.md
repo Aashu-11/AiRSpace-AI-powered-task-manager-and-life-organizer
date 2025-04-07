@@ -74,24 +74,7 @@
   <img src="./Screenshots//3.png" width="45%" alt="Time Block" />
 </div>
 
-## 🚀 Getting Started
 
-```bash
-# Clone this repository
-git clone https://github.com/username/airavat.git
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-Visit `http://localhost:5173` to see the application in action!
-
-
-
----
 
 <p align="center">
   <sub>Made with ❤️ by Team HackStreet</sub>
