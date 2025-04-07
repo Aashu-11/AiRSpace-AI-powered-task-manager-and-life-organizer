@@ -75,9 +75,6 @@
 # Clone this repository
 git clone https://github.com/username/airavat.git
 
-# Navigate to the project directory
-cd airavat
-
 # Install dependencies
 npm install
 
